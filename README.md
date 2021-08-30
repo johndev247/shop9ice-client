@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Backend Repo Here https://github.com/johndev247/shope9ice-backend.git
 
 ## Available Scripts
 
@@ -66,7 +65,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `yarn build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
+# This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # shop9ice- Backend Repo Here https://github.com/johndev247/shope9ice-backend.git
->>>>>>> f334e51ef47b8eef39b7b7439553d8d42945265b
+
+> > > > > > > f334e51ef47b8eef39b7b7439553d8d42945265b
