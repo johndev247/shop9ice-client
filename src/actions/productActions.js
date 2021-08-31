@@ -121,6 +121,7 @@ export const deleteProduct = (productId) => async (dispatch, getState) => {
   const {
     userSignin: {userInfo},
   } = getState();
+  console.log(userInfo);
 };
 export const createReview =
   (productId, review) => async (dispatch, getState) => {
